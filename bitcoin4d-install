@@ -1,0 +1,2 @@
+apt-get update && apt-get upgrade
+apt-get install ntp unzip git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev aptitude && aptitude install miniupnpc libminiupnpc-dev
